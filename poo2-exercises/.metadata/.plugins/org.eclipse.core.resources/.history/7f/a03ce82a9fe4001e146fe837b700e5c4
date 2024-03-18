@@ -1,0 +1,8 @@
+package entities;
+
+public class Matricula {
+
+	private Aluno aluno;
+	private Curso curso;
+	private LocalDate dataMatricula; 
+}
