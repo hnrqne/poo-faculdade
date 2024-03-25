@@ -1,10 +1,2 @@
 INDEX VERSION 1.131+C:\temp\poo\poo1-exercises\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-2186332969.index
-1798532636.index
-1535177651.index
-4063903654.index
-2235371312.index
-473194122.index
-4116183999.index
 1818143237.index
