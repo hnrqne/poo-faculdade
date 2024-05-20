@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+C:\temp\poo\poo1-exercises\.metadata\.plugins\org.eclipse.jdt.core
-1818143237.index
