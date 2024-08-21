@@ -8,4 +8,6 @@
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="enums.TipoDeDocumento"/>
     <fullyQualifiedTypeName name="enums.Cargo"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="jdbc.db"/>
 </qualifiedTypeNameHistroy>

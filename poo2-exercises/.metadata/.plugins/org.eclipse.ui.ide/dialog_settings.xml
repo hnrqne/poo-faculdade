@@ -6,6 +6,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\temp\poo\poo2-exercises\JDBC_Aula2023"/>
+			<item value="C:\temp\poo\poo2-exercises"/>
+			<item value="C:\temp\poo\poo2-exercises\poo2-ex1"/>
 			<item value="C:\temp\poo2\atividades\poo1-atividade1"/>
 			<item value="C:\temp\poo2\atividades"/>
 		</list>
@@ -18,5 +21,7 @@
 	<section name="ChooseWorkspaceDialogSettings">
 		<item key="DIALOG_X_ORIGIN" value="652"/>
 		<item key="DIALOG_Y_ORIGIN" value="341"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
 	</section>
 </section>
